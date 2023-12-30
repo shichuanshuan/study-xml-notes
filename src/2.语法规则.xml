@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?><!-- xml 头声明，不强制要求，可有可无，但建议书写 -->
+<root> <!-- 必须有根节点 -->
+  <name>shi</name>
+  
+  <!-- <sex>man</Sex> 大小写敏感 -->
+  <a><b>允许包含</b></a>
+</root>

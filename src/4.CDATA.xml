@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<user>
+  <name>数学题</name>
+  <!-- <![CDATA[ 不解析的内容 ]]>    特殊字符(> < *..) 较多时使用-->
+  <msg><![CDATA[ 4 > 3, a > 0; a != 1]]></msg>
+</user>

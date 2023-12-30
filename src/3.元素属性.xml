@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<user>
+  <man>
+    <name>石大栓</name>
+    <age>25</age>
+  </man>
+  <man>
+    <!-- age 是 name 标签的属性，属性值必须用引号引起来；食之无味，弃之有味 -->
+    <name age="50">chu</name>
+  </man>
+</user>
